@@ -10,7 +10,9 @@
         "updateTypes": ["minor", "patch", "digest"],
         "matchPackagePatterns": [
           "^github.com/aws/aws-sdk-go",
-          "^com.amazonaws:aws-*"
+          "^com.amazonaws:aws-*",
+          "^software.amazon.awssdk:ses",
+          "^software.amazon.awssdk:bom"
         ],
         "automerge": true,
         "ignoreTests": true
