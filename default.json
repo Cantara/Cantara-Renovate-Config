@@ -12,7 +12,8 @@
           "^github.com/aws/aws-sdk-go",
           "^com.amazonaws:aws-*",
           "^software.amazon.awssdk:ses",
-          "^software.amazon.awssdk:bom"
+          "^software.amazon.awssdk:bom",
+          "^com.amazonaws:aws-java-sdk-dynamodb"  
         ],
         "automerge": true,
         "ignoreTests": true
