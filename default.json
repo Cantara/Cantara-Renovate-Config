@@ -14,6 +14,7 @@
           "^software.amazon.awssdk:ses",
           "^software.amazon.awssdk:bom",
           "^com.amazonaws:aws-java-sdk-dynamodb",
+          "^net.whydah.sso:Whydah-*",
           "^com.exoreaction.xorcery:xorcery"  
         ],
         "automerge": true,
