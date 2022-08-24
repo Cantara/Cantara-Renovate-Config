@@ -16,6 +16,10 @@
           "^com.amazonaws:aws-java-sdk-dynamodb",
           "^net.whydah.sso:Whydah-*",
           "^no.cantara.jau:configservice*",  
+          "^no.cantara.config:property-config",
+          "^no.cantara.messi:messi-*",
+          "^no.cantara.base:Hystrix-*",   
+          "^no.cantara.base:Resilience4j-*",  
           "^com.exoreaction.xorcery:xorcery"  
         ],
         "automerge": true,
