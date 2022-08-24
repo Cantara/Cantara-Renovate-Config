@@ -16,6 +16,7 @@
           "^com.amazonaws:aws-java-sdk-dynamodb",
           "^net.whydah.sso:Whydah-*",
           "^no.cantara.jau:configservice*",  
+          "^org.valuereporter:valuereporter*",  
           "^no.cantara.config:property-config",
           "^no.cantara.messi:messi-*",
           "^no.cantara.base:Hystrix-*",   
