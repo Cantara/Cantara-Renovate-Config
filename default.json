@@ -25,6 +25,7 @@
           "^no.cantara.messi:messi-*",
           "^no.cantara.base:Hystrix-*",   
           "^no.cantara.base:Resilience4j-*",  
+          "^no.cantara.stingray:stingray*",  
           "^com.exoreaction.xorcery:xorcery*" 
         ],
         "automerge": true,
