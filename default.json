@@ -15,6 +15,7 @@
           "^software.amazon.awssdk:bom",
           "^com.amazonaws:aws-java-sdk-dynamodb",
           "^com.fasterxml.jackson.dataformat:jackson*",  
+          "^com.fasterxml.jackson.datatype:jackson*",  
           "^com.fasterxml.jackson.core:jackson-*",
           "^com.slack.api:slack-api-client*",  
           "^net.whydah.sso:Whydah-*",
