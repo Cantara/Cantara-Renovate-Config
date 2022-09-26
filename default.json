@@ -18,6 +18,7 @@
           "^com.fasterxml.jackson.datatype:jackson*",  
           "^com.fasterxml.jackson.module:jackson",  
           "^com.fasterxml.jackson.core:jackson-*",
+          "^com.fasterxml.jackson:jackson*",
           "^com.slack.api:slack-api-client*",  
           "^net.whydah.sso:Whydah-*",
           "^no.cantara.jau:configservice*",  
