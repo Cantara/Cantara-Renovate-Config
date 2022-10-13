@@ -10,6 +10,8 @@
         "updateTypes": ["minor", "patch", "digest"],
         "matchPackagePatterns": [
           "^github.com/aws/aws-sdk-go",
+          "^ch.qos.logback:logback-classic*",  
+          "^ch.qos.logback:logback*",  
           "^com.amazonaws:aws-*",
           "^software.amazon.awssdk:ses",
           "^software.amazon.awssdk:bom",
