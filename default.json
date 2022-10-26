@@ -26,6 +26,7 @@
           "^no.cantara.jau:configservice*",  
           "^org.valuereporter:valuereporter*",  
           "^no.cantara.config:property-config",
+          "^github.com/cantara/nerthus*",  
           "^no.cantara.messi:messi-*",
           "^no.cantara.base:Hystrix-*",   
           "^no.cantara.base:Resilience4j-*",  
