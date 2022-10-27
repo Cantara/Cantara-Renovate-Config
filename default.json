@@ -9,6 +9,7 @@
       {
         "updateTypes": ["minor", "patch", "digest"],
         "matchPackagePatterns": [
+          "^org.apache.maven.plugins:maven*",
           "^github.com/aws/aws-sdk-go",
           "^ch.qos.logback:logback-classic*",  
           "^ch.qos.logback:logback*",  
