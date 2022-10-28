@@ -11,6 +11,7 @@
         "matchPackagePatterns": [
           "^org.apache.maven.plugins:maven*",
           "^github.com/aws/aws-sdk-go",
+          "^github.com/cantara/bragi",  
           "^ch.qos.logback:logback-classic*",  
           "^ch.qos.logback:logback*",  
           "^com.amazonaws:aws-*",
