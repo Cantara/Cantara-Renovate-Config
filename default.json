@@ -10,6 +10,7 @@
         "updateTypes": ["minor", "patch", "digest"],
         "matchPackagePatterns": [
           "^org.apache.maven.plugins:maven*",
+          "io.swagger.core.v3:swagger*",  
           "^github.com/aws/aws-sdk-go",
           "^github.com/cantara/bragi",  
           "^ch.qos.logback:logback-classic*",  
