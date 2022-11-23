@@ -16,6 +16,7 @@
           "^github.com/cantara/bragi",  
           "^ch.qos.logback:logback-classic*",  
           "^ch.qos.logback:logback*",  
+          "^com.google.cloud:google-cloud*",  
           "^com.amazonaws:aws-*",
           "^software.amazon.awssdk:ses",
           "^software.amazon.awssdk:bom",
