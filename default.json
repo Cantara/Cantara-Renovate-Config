@@ -29,6 +29,7 @@
           "^com.fasterxml.jackson.core:jackson-*",
           "^com.fasterxml.jackson:jackson*",
           "^com.google.protobuf:protobuf*",  
+          "^org.flywaydb:flyway*",  
           "^com.slack.api:slack-api-client*",  
           "^net.whydah.sso:Whydah-*",
           "^no.cantara.jau:configservice*",  
