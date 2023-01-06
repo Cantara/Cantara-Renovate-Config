@@ -41,6 +41,7 @@
           "^no.cantara.base:Resilience4j-*",  
           "^no.cantara.stingray:stingray*",  
           "^org.mockito:mockito*",  
+          "^org.assertj:assertj*",  
           "^com.exoreaction.xorcery:xorcery*" 
         ],
         "automerge": true,
