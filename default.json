@@ -19,6 +19,7 @@
           "^org.slf4j:jcl*",  
           "^org.slf4j:jul*", 
           "^com.google.cloud:google-cloud*",  
+          "^com.google.code.gson:gson*",  
           "^com.amazonaws:aws-*",
           "^software.amazon.awssdk:ses",
           "^software.amazon.awssdk:bom",
