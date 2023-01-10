@@ -43,6 +43,7 @@
           "^no.cantara.stingray:stingray*",  
           "^org.mockito:mockito*",  
           "^org.assertj:assertj*",  
+          "^org.junit.jupiter:junit*",  
           "^com.exoreaction.xorcery:xorcery*" 
         ],
         "automerge": true,
