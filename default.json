@@ -31,6 +31,7 @@
           "^com.fasterxml.jackson:jackson*",
           "^com.google.protobuf:protobuf*",  
           "^org.postgresql:postgresql*",  
+          "^org.springframework.security:spring-security-web",  
           "^org.flywaydb:flyway*",  
           "^com.slack.api:slack-api-client*",  
           "^net.whydah.sso:Whydah-*",
