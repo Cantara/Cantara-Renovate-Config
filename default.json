@@ -34,6 +34,7 @@
           "^org.springframework.security:spring-security-web",  
           "^org.flywaydb:flyway*",  
           "^com.slack.api:slack-api-client*",  
+          "^org.testng:testng*",  
           "^net.whydah.sso:Whydah-*",
           "^no.cantara.jau:configservice*",  
           "^org.valuereporter:valuereporter*",  
