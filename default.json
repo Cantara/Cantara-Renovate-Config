@@ -10,6 +10,7 @@
         "updateTypes": ["minor", "patch", "digest"],
         "matchPackagePatterns": [
           "^org.apache.maven.plugins:maven*",
+          "^org.codehaus.mojo:findbugs*",
           "io.swagger.core.v3:swagger*",  
           "io.rest-assured:rest*",  
           "^github.com/aws/aws-sdk-go",
