@@ -45,6 +45,7 @@
           "^no.cantara.base:Hystrix-*",   
           "^no.cantara.base:Resilience4j-*",  
           "^no.cantara.stingray:stingray*",  
+          "^no.cantara.realestate:api*",  
           "^org.mockito:mockito*",  
           "^org.assertj:assertj*",  
           "^org.junit.jupiter:junit*",
