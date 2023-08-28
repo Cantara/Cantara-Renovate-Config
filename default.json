@@ -12,6 +12,7 @@
           "^org.apache.maven.plugins:maven*",
           "^org.codehaus.mojo:findbugs*",
           "io.swagger.core.v3:swagger*",  
+          "org.yaml:snakeyaml*",  
           "io.rest-assured:rest*",  
           "^github.com/aws/aws-sdk-go",
           "^github.com/cantara/bragi*",  
