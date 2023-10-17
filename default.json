@@ -50,6 +50,7 @@
           "^no.cantara.realestate:api*",  
           "^org.mockito:mockito*",  
           "^org.assertj:assertj*",  
+          "^org.codehaus.mojo:findbugs-maven-plugin*",  
           "^org.junit.jupiter:junit*",
           "^org.junit.jupiter:junit-jupiter*",  
           "^com.exoreaction.xorcery:xorcery*" 
