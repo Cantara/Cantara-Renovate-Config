@@ -49,6 +49,7 @@
           "^no.cantara.stingray:stingray*",
           "^no.cantara.realestate:mappingtable*",  
           "^no.cantara.realestate:api*",  
+          "^no.cantara.realestate:typelib*",  
           "^org.mockito:mockito*",  
           "^org.assertj:assertj*",  
           "^org.codehaus.mojo:findbugs-maven-plugin*",  
