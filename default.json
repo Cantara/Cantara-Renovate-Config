@@ -32,6 +32,7 @@
           "^com.fasterxml.jackson.module:jackson",  
           "^com.fasterxml.jackson.core:jackson-*",
           "^com.fasterxml.jackson:jackson*",
+          "^commons-io:commons-io*",  
           "^com.google.protobuf:protobuf*",  
           "^org.postgresql:postgresql*",  
           "^org.springframework.security:spring-security-web",  
