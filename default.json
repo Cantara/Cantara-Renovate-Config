@@ -52,6 +52,7 @@
           "^no.cantara.realestate:api*",  
           "^no.cantara.realestate:typelib*",
           "^no.cantara.realestate:azure*",  
+          "^com.exoreaction.xorcery:grpc-jpms-shaded*",  
           "^org.mockito:mockito*",  
           "^org.assertj:assertj*",  
           "^org.codehaus.mojo:findbugs-maven-plugin*",  
