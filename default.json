@@ -14,6 +14,7 @@
           "^org.codehaus.mojo:findbugs*",
           "io.swagger.core.v3:swagger*",  
           "org.yaml:snakeyaml*",  
+          "^ch.qos.logback:logback-core*",  
           "org.apache.httpcomponents.client5:httpclient5*",  
           "io.rest-assured:rest*",  
           "^github.com/aws/aws-sdk-go",
