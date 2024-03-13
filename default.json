@@ -13,6 +13,7 @@
           "^org.codehaus.mojo:exec-maven-plugin*",  
           "^org.codehaus.mojo:findbugs*",
           "io.swagger.core.v3:swagger*",  
+          "org.sonarsource.scanner.maven:sonar*",  
           "org.yaml:snakeyaml*",  
           "^ch.qos.logback:logback-core*",  
           "^ch.qos.logback:logback-classic*",
