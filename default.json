@@ -15,6 +15,7 @@
           "io.swagger.core.v3:swagger*",  
           "org.sonarsource.scanner.maven:sonar*",  
           "org.yaml:snakeyaml*",  
+          "org.jboss:jandex*",  
           "^ch.qos.logback:logback-core*",  
           "^ch.qos.logback:logback-classic*",
           "org.apache.httpcomponents.client5:httpclient5*",  
