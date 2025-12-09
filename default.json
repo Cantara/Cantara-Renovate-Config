@@ -42,6 +42,7 @@
           "^com.fasterxml.jackson:jackson*",
           "^commons-io:commons-io*",  
           "^com.google.protobuf:protobuf*",  
+          "^nu.validator:validator*",
           "^org.postgresql:postgresql*",  
           "^org.springframework.security:spring-security-web",  
           "^org.flywaydb:flyway*",  
